@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x745D0d6F6B9badb1E3a14814A5d5FF4B47A466A4",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x745D0d6F6B9badb1E3a14814A5d5FF4B47A466A4",
+  "NETWORK": {
+    "NAME": "Rinkby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "The Ribbonare",
+  "SYMBOL": "TR",
+  "MAX_SUPPLY": 500,
+  "WEI_COST": 40000000000000000,
+  "DISPLAY_COST": 0.004,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/account",
+  "SHOW_BACKGROUND": true
+}
